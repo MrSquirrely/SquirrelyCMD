@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\bin\Debug\SquirrelyCMD.exe.config
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\bin\Debug\SquirrelyCMD.exe
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\bin\Debug\SquirrelyCMD.pdb
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\obj\Debug\SquirrelyCMD.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\obj\Debug\SquirrelyCMD.exe
+c:\users\eric\documents\visual studio 2015\Projects\SquirrelyCMD\SquirrelyCMD\obj\Debug\SquirrelyCMD.pdb
